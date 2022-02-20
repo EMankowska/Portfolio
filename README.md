@@ -1,6 +1,6 @@
 # Portfolio
 **First of all, it is nice to see you here :) 
-Lets have a meet !**
+Let's get to know each other ! !**
 
 ## About Me
 A few months ago, I had the opportunity to participate in a meeting where specialists from various fields of IT talked about their work.  
