@@ -1,2 +1,18 @@
 # Portfolio
-About me, and my hard work to became Tester
+**First of all, it is nice to see you here :) 
+Lets have a meet !**
+
+## About Me
+A few months ago, I had the opportunity to participate in a meeting where specialists from various fields of IT talked about their work.  
+Then I had my first contact with Software Testing.  
+When I listened to what the tester's work looks like, what problems he or she has to pay attention to, I thought to myself:
+"OMG, this is something for me!".
+
+And here I am!
+
+Here You can find infirmation about my hard work to became tester.
+
+I will tell you where my basic knowledge comes from, where I am inspired and what I already know.  
+Part of the project will have the description 'in progress' or 'soon', which means that I am currently working on a given part of my portfolio or will start working on it next.
+
+## 
