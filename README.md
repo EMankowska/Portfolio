@@ -24,5 +24,7 @@ Part of the project will have the description 'in progress' or 'soon', which mea
 ## Groups for knowledge gathering
 
 ## Blogs Read 
+### Polish
+### English
 
 ## Technology
