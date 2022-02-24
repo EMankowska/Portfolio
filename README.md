@@ -31,5 +31,6 @@ Part of the project will have the description 'in progress' or 'soon', which mea
 * [wyszkolewas.com.pl](https://wyszkolewas.com.pl)
 * [zonatesterka.blogspot.com](https://zonatesterka.blogspot.com)
 ### English
-
+* [qamadness.com](https://qamadness.com/blog/)
+* [softwaretestingtricks.com](https://softwaretestingtricks.com/?m=1)
 ## Technology
