@@ -25,11 +25,11 @@ Part of the project will have the description 'in progress' or 'soon', which mea
 
 ## Blogs Read 
 ### Polish
-* [jakzostactesterem.pl]( https//:jakzostactesterem.pl)
-* [remigiuszbednarczyk.pl]( https//:remigiuszbednarczyk.pl)
-* [testerzy.pl]( https//:testerzy.pl)
-* [wyszkolewas.com.pl]( https//:wyszkolewas.com.pl)
-* [zonatesterka.blogspot.pl]( https//:zonatesterka.blogspot.pl)
+* [jakzostactesterem.pl](https://jakzostactesterem.pl)
+* [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl)
+* [testerzy.pl](https://testerzy.pl)
+* [wyszkolewas.com.pl](https://wyszkolewas.com.pl)
+* [zonatesterka.blogspot.com](https://zonatesterka.blogspot.com)
 ### English
 
 ## Technology
