@@ -21,6 +21,12 @@ Part of the project will have the description 'in progress' or 'soon', which mea
 * *ABC TESTOWANIA OPROGRAMOWANIA*. Waldemar Szafraniec, Dorota Gabor
 * *Testowanie oprogramowania. Podręcznik dla początkujących*. Rafał Pawlak  
 
+## Courses
+
+## Technogy
+
+## Tech Stack
+
 ## Groups for knowledge gathering
 
 ## Blogs Read 
@@ -33,9 +39,7 @@ Part of the project will have the description 'in progress' or 'soon', which mea
 ### English
 * [qamadness.com](https://qamadness.com/blog/)
 * [softwaretestingtricks.com](https://softwaretestingtricks.com/?m=1)
-## Technology
-* Windows
-* Android
+
 ## My test documentation
 * Bug Reports
 * Test Reports
