@@ -34,7 +34,9 @@ Part of the project will have the description 'in progress' or 'soon', which mea
 * [qamadness.com](https://qamadness.com/blog/)
 * [softwaretestingtricks.com](https://softwaretestingtricks.com/?m=1)
 ## Technology
-## My test documwntation
+* Windows
+* Android
+## My test documentation
 * Bug Reports
 * Test Reports
 * Test Cases
