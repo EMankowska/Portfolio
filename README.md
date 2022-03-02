@@ -23,11 +23,9 @@ Part of the project will have the description 'in progress' or 'soon', which mea
 
 ## Courses
 
-## Technogy
+## Technology
 
 ## Tech Stack
-
-## Groups for knowledge gathering
 
 ## Blogs Read 
 ### Polish
