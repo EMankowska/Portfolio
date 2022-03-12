@@ -44,7 +44,7 @@ Part of the project will have the description 'in progress' or 'soon', which mea
 
 ## My test documentation
 
-* [Bug Reports] (https://drive.google.com/file/d/1DPq0hAICn228EDg-brgT-ypflty6xe1U/view?usp=drivesdk)
+* [Bug Reports](https://drive.google.com/file/d/1DPq0hAICn228EDg-brgT-ypflty6xe1U/view?usp=drivesdk)
 * Test Reports
 * Test Cases
 * Test Scenarios
