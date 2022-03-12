@@ -43,7 +43,8 @@ Part of the project will have the description 'in progress' or 'soon', which mea
 * [softwaretestingtricks.com](https://softwaretestingtricks.com/?m=1)
 
 ## My test documentation
-* Bug Reports
+
+
 * Test Reports
 * Test Cases
 * Test Scenarios
