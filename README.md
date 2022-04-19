@@ -27,7 +27,9 @@ Part of the project will have the description 'in progress' or 'soon', which mea
 * Android
 * Windows
 
-## Tech Stack
+## Tools
+*GitHub
+*Jira
 
 ## Blogs Read 
 
