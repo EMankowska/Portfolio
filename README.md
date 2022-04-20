@@ -28,8 +28,8 @@ Part of the project will have the description 'in progress' or 'soon', which mea
 * Windows
 
 ## Tools
-*GitHub
-*Jira
+* GitHub
+* Jira
 
 ## Blogs Read 
 
