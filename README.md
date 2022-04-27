@@ -22,6 +22,7 @@ Part of the project will have the description 'in progress' or 'soon', which mea
 * *Testowanie oprogramowania. Podręcznik dla początkujących*. Rafał Pawlak  
 
 ## Courses
+* Jira Academy *in progres*
 
 ## Technology
 * Android
