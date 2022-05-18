@@ -23,6 +23,8 @@ Part of the project will have the description 'in progress' or 'soon', which mea
 
 ## Courses
 * [Jira Fundamentals](https://university.atlassian.com/student/award/XkHBVR3vSMsyXvWjdEduvACF)
+* [ Praktyczny kurs testowania oprogramowania](https://udemy-certificate.s3.amazonaws.com/image/UC-a973275a-c6a6-4974-a7e1-4f8a7be355cc.jpg?v=1652876055000)
+
 
 ## Technology
 * Android
