@@ -22,9 +22,9 @@ Part of the project will have the description 'in progress' or 'soon', which mea
 * *Testowanie oprogramowania. Podręcznik dla początkujących*. Rafał Pawlak  
 
 ## Tech Skills
-*Tests Scenarios
-*Tests Cases
-*Bugs Reports
+* *Tests Scenarios
+* *Tests Cases
+* *Bugs Reports
 
 
 ## Courses
