@@ -21,7 +21,10 @@ Part of the project will have the description 'in progress' or 'soon', which mea
 * *ABC TESTOWANIA OPROGRAMOWANIA*. Waldemar Szafraniec, Dorota Gabor
 * *Testowanie oprogramowania. Podręcznik dla początkujących*. Rafał Pawlak  
 
-## Skills
+## Tech Skills
+*Tests Scenarios
+*Tests Cases
+*Bugs Reports
 
 
 ## Courses
