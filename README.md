@@ -41,6 +41,8 @@ Part of the project will have the description 'in progress' or 'soon', which mea
 * GitHub
 * Jira
 * Trello
+* JMeter
+* Postman
 
 ## Blogs Read 
 
