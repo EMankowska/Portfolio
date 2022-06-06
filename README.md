@@ -44,6 +44,9 @@ Part of the project will have the description 'in progress' or 'soon', which mea
 * Jira
 * Trello
 * Postman
+* JMeter
+* Selenium IDE
+* BlazeMeter
 
 ## Blogs Read 
 
