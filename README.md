@@ -25,6 +25,8 @@ Part of the project will have the description 'in progress' or 'soon', which mea
 * *Tests Scenarios
 * *Tests Cases
 * *Bugs Reports
+* Agile testing
+
 
 
 ## Courses
@@ -41,8 +43,13 @@ Part of the project will have the description 'in progress' or 'soon', which mea
 * GitHub
 * Jira
 * Trello
+* Postman
+* JMeter
+* Selenium IDE
+* BlazeMeter
 * JMeter
 * Postman
+
 
 ## Blogs Read 
 
